@@ -1,6 +1,6 @@
 # Bookstore API
 
-A small Express API for creating and reading books stored in MongoDB.
+An Express RestAPI for creating and reading books stored in MongoDB.
 
 ## Requirements
 
